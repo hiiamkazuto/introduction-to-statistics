@@ -10,12 +10,12 @@
 
 *   **定義：** 取りうる値が *x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>* の *n* 個であるとき、確率質量関数 *P(X=x)* は以下のように定義される。
 
-$$
-P(X=x) = \begin{cases}
-\frac{1}{n} & (x = x_1, x_2, ..., x_n) \\
-0 & (その他)
-\end{cases}
-$$
+    $$
+    P(X=x) = \begin{cases}
+    \frac{1}{n} & (x = x_1, x_2, ..., x_n) \\
+    0 & (その他)
+    \end{cases}
+    $$
 
     この式は、どの値 *x<sub>i</sub>* をとる確率も 1/n であることを示している。
 
